@@ -1,0 +1,8 @@
+movie_publisher
+/home/usrg/antidrone_ws/devel/.private/movie_publisher/cmake.lock /home/usrg/antidrone_ws/devel/./cmake.lock
+/home/usrg/antidrone_ws/devel/.private/movie_publisher/share/movie_publisher/cmake/movie_publisherConfig-version.cmake /home/usrg/antidrone_ws/devel/share/movie_publisher/cmake/movie_publisherConfig-version.cmake
+/home/usrg/antidrone_ws/devel/.private/movie_publisher/share/movie_publisher/cmake/movie_publisherConfig.cmake /home/usrg/antidrone_ws/devel/share/movie_publisher/cmake/movie_publisherConfig.cmake
+/home/usrg/antidrone_ws/devel/.private/movie_publisher/lib/pkgconfig/movie_publisher.pc /home/usrg/antidrone_ws/devel/lib/pkgconfig/movie_publisher.pc
+/home/usrg/antidrone_ws/devel/.private/movie_publisher/lib/movie_publisher/webcam_pub /home/usrg/antidrone_ws/devel/lib/movie_publisher/webcam_pub
+/home/usrg/antidrone_ws/devel/.private/movie_publisher/lib/movie_publisher/movie_pub /home/usrg/antidrone_ws/devel/lib/movie_publisher/movie_pub
+/home/usrg/antidrone_ws/devel/.private/movie_publisher/lib/movie_publisher/picture_pub /home/usrg/antidrone_ws/devel/lib/movie_publisher/picture_pub

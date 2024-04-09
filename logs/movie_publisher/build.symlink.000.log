@@ -1,0 +1,6 @@
+Symlinking /home/usrg/antidrone_ws/devel/share/movie_publisher/cmake/movie_publisherConfig-version.cmake
+Symlinking /home/usrg/antidrone_ws/devel/share/movie_publisher/cmake/movie_publisherConfig.cmake
+Symlinking /home/usrg/antidrone_ws/devel/lib/pkgconfig/movie_publisher.pc
+Symlinking /home/usrg/antidrone_ws/devel/lib/movie_publisher/webcam_pub
+Symlinking /home/usrg/antidrone_ws/devel/lib/movie_publisher/movie_pub
+Symlinking /home/usrg/antidrone_ws/devel/lib/movie_publisher/picture_pub

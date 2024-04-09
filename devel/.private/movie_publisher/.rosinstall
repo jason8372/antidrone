@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/usrg/antidrone_ws/devel/.private/movie_publisher/setup.sh

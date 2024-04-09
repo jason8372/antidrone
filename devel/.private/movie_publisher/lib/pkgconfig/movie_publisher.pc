@@ -1,0 +1,8 @@
+prefix=/home/usrg/antidrone_ws/devel/.private/movie_publisher
+
+Name: movie_publisher
+Description: Description of movie_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

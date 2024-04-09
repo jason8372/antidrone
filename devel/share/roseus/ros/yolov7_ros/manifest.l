@@ -1,0 +1,1 @@
+/home/usrg/antidrone_ws/devel/.private/yolov7_ros/share/roseus/ros/yolov7_ros/manifest.l

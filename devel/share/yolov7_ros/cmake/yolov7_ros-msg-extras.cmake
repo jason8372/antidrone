@@ -1,0 +1,1 @@
+/home/usrg/antidrone_ws/devel/.private/yolov7_ros/share/yolov7_ros/cmake/yolov7_ros-msg-extras.cmake

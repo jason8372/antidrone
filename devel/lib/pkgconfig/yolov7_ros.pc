@@ -1,0 +1,1 @@
+/home/usrg/antidrone_ws/devel/.private/yolov7_ros/lib/pkgconfig/yolov7_ros.pc

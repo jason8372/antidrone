@@ -1,0 +1,9 @@
+[ 16%] [32mBuilding CXX object CMakeFiles/webcam_pub.dir/src/webcam_publisher.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/movie_pub.dir/src/movie_publisher.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/picture_pub.dir/src/picture_publisher.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/usrg/antidrone_ws/devel/.private/movie_publisher/lib/movie_publisher/movie_pub[0m
+[100%] [32m[1mLinking CXX executable /home/usrg/antidrone_ws/devel/.private/movie_publisher/lib/movie_publisher/webcam_pub[0m
+[100%] [32m[1mLinking CXX executable /home/usrg/antidrone_ws/devel/.private/movie_publisher/lib/movie_publisher/picture_pub[0m
+[100%] Built target picture_pub
+[100%] Built target webcam_pub
+[100%] Built target movie_pub
